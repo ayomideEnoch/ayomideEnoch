@@ -8,7 +8,7 @@ I'm a Software Engineer who is passionate about making open-source accessible, c
  <a href="https://stars.github.com/">GitHub Star 🌟</a> 
 
 ## Find me around the web 🌎: <a href="https://github.com/ayomideEnoch"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.discuss.dev.twitch.tv/">Twitch</a> or <a href="https://www.react_ninja.dev">monica.dev</a> 📹 ✍🏾
+- Learning in public on <a href="https://www.twitch.discuss.dev.twitch.tv/">Twitch</a> or <a href="https://www..dev">react_ninja.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/ayomideEnoch"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/ayomide-ibosiola/">LinkedIn</a> 💼
 
