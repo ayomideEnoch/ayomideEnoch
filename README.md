@@ -4,8 +4,10 @@
 I'm Ayomide Ibosiola 👋🏾 👩🏾‍💻
 
 <img align="left" width="350" height="250" src="https://user-images.githubusercontent.com/56524093/89119345-b6624b00-d462-11ea-90aa-fc2c33b7881b.jpg" alt="banner that says Ayomide Ibosiola - Software Engineer">
-I'm a software engineer who is passionate about making open-source accessible, creating technology to elevate people, and building community. 
- <br>Some technologies I enjoy working with include ReactJS, Redux and GraphQL.<a href="https://stars.github.com/"> 🌟</a> 
+I'm a software engineer who is passionate about making open-source accessible, creating technology to elevate people and building community. 
+
+
+##<br>Some technologies I enjoy working with include ReactJS, Redux and GraphQL.<a href="https://stars.github.com/"> 🌟</a> 
 
 
 ## Find me around the web 🌎:
