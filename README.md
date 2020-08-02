@@ -3,7 +3,7 @@
 
 I'm Ayomide Ibosiola 👋🏾 👩🏾‍💻
 
-<img src="https://github.com/ayomideEnoch/ayomideEnoch/blob/master/avatar/avatar1.jpg" alt="banner that says Ayomide Ibosiola - Software Engineer, Content Creator and soon to be community organizer alongside a cartoon illustration of Ayomide">
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Ayomide Ibosiola - Software Engineer">
 I'm a software engineer who is passionate about making open-source accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Redux and GraphQL. 
 ##<a href="https://stars.github.com/">GitHub Star 🌟</a> 
 
