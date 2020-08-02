@@ -7,7 +7,7 @@ I'm Ayomide Ibosiola 👋🏾 👩🏾‍💻
 I'm a software engineer who is passionate about making open-source accessible, creating technology to elevate people and building community. 
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://https://github.com/ayomideEnoch"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 - 💬 Learning in public on <a href="https://www.discuss.dev.twitch.tv/">Twitch</a> or <a href="https://www..dev">react_ninja.dev</a> 📹 ✍🏾
 - 💬 Tinkering with interactions on <a href="https://codepen.io/ayomideEnoch"> Codepen</a> 🏓
