@@ -10,10 +10,11 @@ I'm a software engineer who is passionate about making open-source accessible, c
 ##<br>Some technologies I enjoy working with include ReactJS, Redux and GraphQL.<a href="https://stars.github.com/"> 🌟</a> 
 
 
-## Find me around the web 🌎:
-- Learning in public on <a href="https://www.discuss.dev.twitch.tv/">Twitch</a> or <a href="https://www..dev">react_ninja.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/ayomideEnoch"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/ayomide-ibosiola/">LinkedIn</a> 💼
+Find me around the web 🌎:
+
+- 💬 Learning in public on <a href="https://www.discuss.dev.twitch.tv/">Twitch</a> or <a href="https://www..dev">react_ninja.dev</a> 📹 ✍🏾
+- 💬 Tinkering with interactions on <a href="https://codepen.io/ayomideEnoch"> Codepen</a> 🏓
+- 💬 Sharing updates on <a href="https://www.linkedin.com/in/ayomide-ibosiola/">LinkedIn</a> 💼
 
 
 Here are some ideas to get you started:
