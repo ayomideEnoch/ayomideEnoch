@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 
 
-  ![Ayomide's github stats](https://github-readme-stats.vercel.app/api?username=ayomideEnoch&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomideEnoch)](https://github.com/anuraghazra/github-readme-stats)
+ <br> ![Ayomide's github stats](https://github-readme-stats.vercel.app/api?username=ayomideEnoch&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomideEnoch)](https://github.com/anuraghazra/github-readme-stats)
