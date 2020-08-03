@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am looking to start some technical writing soon
 
+
+
+  ![Ayomide's github stats](https://github-readme-stats.vercel.app/api?username=ayomideEnoch&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomideEnoch)](https://github.com/anuraghazra/github-readme-stats)
