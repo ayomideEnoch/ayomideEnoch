@@ -17,8 +17,7 @@ I'm a software engineer who is passionate about making open-source accessible, c
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... ReactJS
-- 🌱 I’m currently learning ... VueJS
+- 🔭 I’m currently doing amazing stuff with ... ReactJS & VueJS
 - 👯 I’m looking to collaborate on ... Any Frontend Project
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
