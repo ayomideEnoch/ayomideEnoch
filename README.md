@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-I'm Ayomide Ibosiola 👋🏾 👩🏾‍💻
+I am Ayomide Ibosiola 👋🏾 👩🏾‍💻
 
 <img align="left" width="350" height="250" src="https://user-images.githubusercontent.com/56524093/89119345-b6624b00-d462-11ea-90aa-fc2c33b7881b.jpg" alt="banner that says Ayomide Ibosiola - Software Engineer">
-I'm a software engineer who is passionate about making open-source accessible, creating technology to elevate people and building community. 
+I am a software engineer who is passionate about making open-source accessible, creating technology to elevate people and building community. 
 
 
 ## Find me around the web 🌎: <a href="https://https://github.com/ayomideEnoch"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
@@ -17,9 +17,9 @@ I'm a software engineer who is passionate about making open-source accessible, c
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently doing amazing stuff with ... ReactJS & VueJS
-- 👯 I’m looking to collaborate on ... Any Frontend Project
-- 🤔 I’m looking for help with ... AWS
+- 🔭 I am currently doing amazing stuff with ... ReactJS & VueJS
+- 👯 I am looking to collaborate on ... Any Frontend Project
+- 🤔 I am looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ayomide-ibosiola/)
 - 😄 Pronouns: ... He/Him
