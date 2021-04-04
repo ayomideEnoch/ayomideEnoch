@@ -13,11 +13,11 @@ I am a software engineer who is passionate about making open-source accessible, 
 - 💬 Tinkering with interactions on <a href="https://codepen.io/ayomideEnoch"> Codepen</a> 🏓
 - 💬 Sharing updates on <a href="https://www.linkedin.com/in/ayomide-ibosiola/">LinkedIn</a> 💼
 
-<br>Some technologies I enjoy working with include ReactJS, Redux and GraphQL.<a href="https://stars.github.com/"> 🌟</a> 
+<br>Some technologies I enjoy working with include VueJS, Vuex, ReactJS, Redux and GraphQL.<a href="https://stars.github.com/"> 🌟</a> 
 
 Here are some ideas to get you started:
 
-- 🔭 I am currently doing amazing stuff with ... ReactJS & VueJS
+- 🔭 I am currently doing amazing stuff with ... VueJS & ReactJS
 - 👯 I am looking to collaborate on ... Any Frontend Project
 - 🤔 I am looking for help with ... AWS
 - 💬 Ask me about ... Anything
