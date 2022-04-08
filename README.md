@@ -10,9 +10,10 @@ I am a technical recruiter/sourcer with the mind of a software developer and the
 
 ## Find me around the web 🌎: <a href="https://https://github.com/ayomideEnoch"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-- 💬 Learning in public on <a href="https://ayomideibosiola.medium.com/">Medium</a> or <a href="https://ayomideibosiola.netlify.app/">vue_ninja.dev</a> 📹 ✍🏾
+- 💬 Learning in public on <a href="https://ayomideibosiola.medium.com/">Medium</a> 📹 ✍🏾
 - 💬 Tinkering with interactions on <a href="https://codepen.io/ayomideEnoch"> Codepen</a> 🏓
 - 💬 Sharing updates on <a href="https://www.linkedin.com/in/ayomide-ibosiola/">LinkedIn</a> 💼
+
 
 <br>Some technologies I enjoy working with include VueJS, Vuex, ReactJS, Redux and GraphQL.<a href="https://stars.github.com/"> 🌟</a> 
 
@@ -26,5 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Check me on <a href="https://ayomideibosiola.medium.com/">Medium</a> for some of my articles
 
+Check my portfolio website for more information about me <a href="https://ayomideibosiola.netlify.app/">Ayòmídé ÌBÒSÍOLÁ</a> 💼
 
  <br> ![Ayomide's github stats](https://github-readme-stats.vercel.app/api?username=ayomideEnoch&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomideEnoch)](https://github.com/anuraghazra/github-readme-stats)
