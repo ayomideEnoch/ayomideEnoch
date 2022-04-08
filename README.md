@@ -4,7 +4,8 @@
 I am Ayòmídé ÌBÒSÍOLÁ 👋🏾 👩🏾‍💻
 
 <img align="left" width="350" height="250" src="https://user-images.githubusercontent.com/56524093/89119345-b6624b00-d462-11ea-90aa-fc2c33b7881b.jpg" alt="banner that says Ayomide Ibosiola - Software Developer">
-I am a technical recruiter/sourcer with the mind of a software developer and the heart of a writer. I am currently building a disruptive community, <a href="https://join.slack.com/t/slack-cwg4676/shared_invite/zt-16o41os2r-iOcXL5GNGfTkXJdctwD5gw">Jobs Meet Devs</a>, doing amazing things in the Technical Recruitment niche.
+I am a technical recruiter/sourcer with the mind of a software developer and the heart of a writer. 
+<br>I am currently building a disruptive community, <a href="https://join.slack.com/t/slack-cwg4676/shared_invite/zt-16o41os2r-iOcXL5GNGfTkXJdctwD5gw">Jobs Meet Devs</a>, doing amazing things in the Technical Recruitment niche.
 
 
 ## Find me around the web 🌎: <a href="https://https://github.com/ayomideEnoch"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
