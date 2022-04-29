@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Ayòmídé ÌBÒSÍOLÁ 👋🏾 👩🏾‍💻
+I am Ayòmídé ÌBÒSÍOLÁ (The React Ninja ⚔️)👋🏾 👩🏾‍💻
 
 <img align="left" width="350" height="250" src="https://user-images.githubusercontent.com/56524093/89119345-b6624b00-d462-11ea-90aa-fc2c33b7881b.jpg" alt="banner that says Ayomide Ibosiola - Software Developer">
 I am a technical recruiter/sourcer with the mind of a software developer and the heart of a writer. 
